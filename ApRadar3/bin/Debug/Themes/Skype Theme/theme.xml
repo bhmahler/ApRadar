@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Theme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<BarBackground>images\bg.png</BarBackground>
+	<BarForeColor>#0181E3</BarForeColor>
+	<PCColor>Blue</PCColor>
+	<NPCColor>Red</NPCColor>
+	<DockPosition>Top</DockPosition>
+	<HeaderBar>images\bg_33px.png</HeaderBar>
+	<FormBackgroundColor>#E2E2E2</FormBackgroundColor>
+  	<FormForeColor>#0181E3</FormForeColor>
+</Theme>

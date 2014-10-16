@@ -1,0 +1,14 @@
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\ApRadarChat\bin\Debug\ApRadarChat.exe.config
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\ApRadarChat\bin\Debug\ApRadarChat.exe
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\ApRadarChat\bin\Debug\ApRadarChat.pdb
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\ApRadarChat\bin\Debug\ApRadarChat.xml
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\ApRadarChat\bin\Debug\Contracts.dll
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\ApRadarChat\obj\Debug\ApRadarChat.ChannelPassDialog.resources
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\ApRadarChat\obj\Debug\ApRadarChat.ChatForm.resources
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\ApRadarChat\obj\Debug\ApRadarChat.CreateChannelDialog.resources
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\ApRadarChat\obj\Debug\ApRadarChat.Resources.resources
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\ApRadarChat\obj\Debug\ApRadarChat.exe
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\ApRadarChat\obj\Debug\ApRadarChat.xml
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\ApRadarChat\obj\Debug\ApRadarChat.pdb
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\ApRadarChat\obj\Debug\ApRadarChat.vbprojResolveAssemblyReference.cache
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\ApRadarChat\obj\Debug\ApRadarChat.vbproj.GenerateResource.Cache

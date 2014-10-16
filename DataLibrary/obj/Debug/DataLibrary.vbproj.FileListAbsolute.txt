@@ -1,0 +1,16 @@
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\DataLibrary\bin\Debug\Data\ApRadarDB.sdf
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\DataLibrary\bin\Debug\Data\CampedMobs.dat
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\DataLibrary\bin\Debug\DataLibrary.dll.config
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\DataLibrary\bin\Debug\DataLibrary.xml
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\DataLibrary\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\DataLibrary\obj\Debug\DataLibrary.Resources.resources
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\DataLibrary\obj\Debug\DataLibrary.xml
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\DataLibrary\bin\Debug\FFXIMemory.dll
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\DataLibrary\bin\Debug\FFXIMemory.pdb
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\DataLibrary\bin\Debug\FFXIMemory.xml
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\DataLibrary\obj\Debug\DataLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\DataLibrary\obj\Debug\DataLibrary.vbproj.GenerateResource.Cache

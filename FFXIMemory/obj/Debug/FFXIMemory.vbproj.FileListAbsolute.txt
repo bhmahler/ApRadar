@@ -1,0 +1,8 @@
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\FFXIMemory\bin\Debug\FFXIMemory.dll
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\FFXIMemory\bin\Debug\FFXIMemory.pdb
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\FFXIMemory\bin\Debug\FFXIMemory.xml
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\FFXIMemory\obj\Debug\FFXIMemory.Resources.resources
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\FFXIMemory\obj\Debug\FFXIMemory.dll
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\FFXIMemory\obj\Debug\FFXIMemory.xml
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\FFXIMemory\obj\Debug\FFXIMemory.pdb
+C:\Users\bhmahler\Documents\Visual Studio 2010\Projects\ApRadar3\FFXIMemory\obj\Debug\FFXIMemory.vbproj.GenerateResource.Cache
