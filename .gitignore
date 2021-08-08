@@ -15,7 +15,7 @@
 
 #SG
 _sgbak
-
+.DS_Store
 # Mono auto generated files
 mono_crash.*
 
